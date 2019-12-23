@@ -1,25 +1,26 @@
 {
   "files": {
-    "main.css": "/inventory-control/static/css/main.3bc3a81a.chunk.css",
-    "main.js": "/inventory-control/static/js/main.0f148b6b.chunk.js",
-    "main.js.map": "/inventory-control/static/js/main.0f148b6b.chunk.js.map",
+    "main.css": "/inventory-control/static/css/main.e51309ae.chunk.css",
+    "main.js": "/inventory-control/static/js/main.2357c01c.chunk.js",
+    "main.js.map": "/inventory-control/static/js/main.2357c01c.chunk.js.map",
     "runtime-main.js": "/inventory-control/static/js/runtime-main.7b35f343.js",
     "runtime-main.js.map": "/inventory-control/static/js/runtime-main.7b35f343.js.map",
-    "static/css/2.70be364f.chunk.css": "/inventory-control/static/css/2.70be364f.chunk.css",
-    "static/js/2.4661976a.chunk.js": "/inventory-control/static/js/2.4661976a.chunk.js",
-    "static/js/2.4661976a.chunk.js.map": "/inventory-control/static/js/2.4661976a.chunk.js.map",
+    "static/css/2.eb45ad44.chunk.css": "/inventory-control/static/css/2.eb45ad44.chunk.css",
+    "static/js/2.7aeab506.chunk.js": "/inventory-control/static/js/2.7aeab506.chunk.js",
+    "static/js/2.7aeab506.chunk.js.map": "/inventory-control/static/js/2.7aeab506.chunk.js.map",
     "index.html": "/inventory-control/index.html",
-    "precache-manifest.0184c4c0ce3d23027d89f11864d8b9ef.js": "/inventory-control/precache-manifest.0184c4c0ce3d23027d89f11864d8b9ef.js",
+    "precache-manifest.7c0ddbf17fd88cd10b246bfa9241bf82.js": "/inventory-control/precache-manifest.7c0ddbf17fd88cd10b246bfa9241bf82.js",
     "service-worker.js": "/inventory-control/service-worker.js",
-    "static/css/2.70be364f.chunk.css.map": "/inventory-control/static/css/2.70be364f.chunk.css.map",
-    "static/css/main.3bc3a81a.chunk.css.map": "/inventory-control/static/css/main.3bc3a81a.chunk.css.map",
-    "static/js/2.4661976a.chunk.js.LICENSE": "/inventory-control/static/js/2.4661976a.chunk.js.LICENSE"
+    "static/css/2.eb45ad44.chunk.css.map": "/inventory-control/static/css/2.eb45ad44.chunk.css.map",
+    "static/css/main.e51309ae.chunk.css.map": "/inventory-control/static/css/main.e51309ae.chunk.css.map",
+    "static/js/2.7aeab506.chunk.js.LICENSE": "/inventory-control/static/js/2.7aeab506.chunk.js.LICENSE",
+    "static/media/delete.svg": "/inventory-control/static/media/delete.fbc4bf14.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.7b35f343.js",
-    "static/css/2.70be364f.chunk.css",
-    "static/js/2.4661976a.chunk.js",
-    "static/css/main.3bc3a81a.chunk.css",
-    "static/js/main.0f148b6b.chunk.js"
+    "static/css/2.eb45ad44.chunk.css",
+    "static/js/2.7aeab506.chunk.js",
+    "static/css/main.e51309ae.chunk.css",
+    "static/js/main.2357c01c.chunk.js"
   ]
 }
