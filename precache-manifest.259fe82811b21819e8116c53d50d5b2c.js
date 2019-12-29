@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "73a1e1d59b9c06eb58c7d03d14703dbb",
+    "revision": "621d2256ca3d9db06f278f0759991d4c",
     "url": "/inventory-control/index.html"
   },
   {
-    "revision": "90b14d162b65f70d8e03",
+    "revision": "1cb3663cd80860fea46e",
     "url": "/inventory-control/static/css/2.eb45ad44.chunk.css"
   },
   {
-    "revision": "894e4b6d1beaa23c80b1",
+    "revision": "dc4c0db94902329fa274",
     "url": "/inventory-control/static/css/main.e51309ae.chunk.css"
   },
   {
-    "revision": "90b14d162b65f70d8e03",
-    "url": "/inventory-control/static/js/2.7aeab506.chunk.js"
+    "revision": "1cb3663cd80860fea46e",
+    "url": "/inventory-control/static/js/2.35476ca4.chunk.js"
   },
   {
     "revision": "7cf5ea8325789e1309e92df57203ec18",
-    "url": "/inventory-control/static/js/2.7aeab506.chunk.js.LICENSE"
+    "url": "/inventory-control/static/js/2.35476ca4.chunk.js.LICENSE"
   },
   {
-    "revision": "894e4b6d1beaa23c80b1",
-    "url": "/inventory-control/static/js/main.2357c01c.chunk.js"
+    "revision": "dc4c0db94902329fa274",
+    "url": "/inventory-control/static/js/main.4756e243.chunk.js"
   },
   {
     "revision": "ab15e04eef01c2552a71",
